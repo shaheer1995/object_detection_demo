@@ -1,0 +1,11 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+0.png,800,600,marker,57,242,74,387
+0.png,800,600,marker,438,244,455,386
+0.png,800,600,track,1,295,800,305
+0.png,800,600,track,1,323,800,341
+0.png,800,600,trainLeft,95,287,150,297
+0.png,800,600,trainLeft,117,334,156,345
+0.png,800,600,trainRight,358,288,403,300
+0.png,800,600,trainRight,364,333,410,346
+0.png,800,600,crossover,158,299,246,327
+0.png,800,600,crossover,258,303,345,327

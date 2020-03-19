@@ -1,0 +1,29 @@
+item {
+    id: 1
+    name: 'crossover'
+}
+
+item {
+    id: 2
+    name: 'crossover2'
+}
+
+item {
+    id: 3
+    name: 'marker'
+}
+
+item {
+    id: 4
+    name: 'track'
+}
+
+item {
+    id: 5
+    name: 'trainLeft'
+}
+
+item {
+    id: 6
+    name: 'trainRight'
+}
